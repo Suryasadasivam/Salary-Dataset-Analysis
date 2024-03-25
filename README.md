@@ -10,7 +10,9 @@ The "Salary_Data" dataset contains information about salaries based on years of 
 
 - YearsExperience: Number of years of experience.
 - Salary: Corresponding salary for the given years of experience.
+- 
 **Repository Structure**
+  
 - Salary_Data.csv: Contains the raw data file used in the analysis.
 - Salary_Data.ipynb: Jupyter notebook containing the code for data exploration, preprocessing, analysis, and visualization.
 **Dependencies**
